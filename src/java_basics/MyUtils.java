@@ -1,6 +1,5 @@
 package java_basics;
-
-public class MyUtils {
+ public class MyUtils {
 
     public static String printSomeJunk(String argument) {
 //        System.out.println("Some bla bla bla " + argument);
